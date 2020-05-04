@@ -28335,7 +28335,7 @@ return null},
 qp:function(a,b){return this.a_d(a,b)},
 a_d:function(a,b){var t=0,s=P.a1(u.N),r,q=2,p,o=[],n,m,l,k,j,i,h,g
 var $async$qp=P.Y(function(c,d){if(c===1){p=d
-t=q}while(true)switch(t){case 0:h="http://dsb-api.dorschdev.de/auth/register"
+t=q}while(true)switch(t){case 0:h="https://api.dorschdev.de/auth/register"
 q=4
 k=u.N
 j=P.T(["content-type","application/json"],k,k)
@@ -28368,7 +28368,7 @@ kN:function(a){return this.Yz(a)},
 Yz:function(a){var t=0,s=P.a1(u.H),r=1,q,p=[],o=this,n,m,l,k,j,i,h,g,f,e,d
 var $async$kN=P.Y(function(b,c){if(b===1){q=c
 t=r}while(true)switch(t){case 0:P.aL("LOGIN")
-n="http://dsb-api.dorschdev.de/auth/login"
+n="https://api.dorschdev.de/auth/login"
 r=3
 g=u.N
 f=P.T(["content-type","application/json"],g,g)
@@ -28430,7 +28430,7 @@ t=1
 break}n.a=g.h(e,"TOKEN")
 n.c=g.h(e,"USER_ID")
 n.b=d
-m="http://dsb-api.dorschdev.de/auth/auto-login"
+m="https://api.dorschdev.de/auth/auto-login"
 q=5
 g=u.N
 t=8
@@ -28493,7 +28493,7 @@ return P.a0($async$q3,s)},
 lh:function(a,b){return this.HL(a,b)},
 HL:function(a,b){var t=0,s=P.a1(u.kD),r,q=2,p,o=[],n,m,l,k,j,i,h,g
 var $async$lh=P.Y(function(c,d){if(c===1){p=d
-t=q}while(true)switch(t){case 0:h="http://dsb-api.dorschdev.de/api/users/user/"+H.c(a)
+t=q}while(true)switch(t){case 0:h="https://api.dorschdev.de/api/users/user/"+H.c(a)
 q=4
 j=u.N
 t=7
@@ -28533,7 +28533,7 @@ return q},
 nu:function(a){return this.HD(a)},
 HD:function(a){var t=0,s=P.a1(u.H),r=1,q,p=[],o=this,n,m,l,k,j,i,h,g,f,e
 var $async$nu=P.Y(function(b,c){if(b===1){q=c
-t=r}while(true)switch(t){case 0:f="http://dsb-api.dorschdev.de/api/chats/rooms/"+H.c(a)
+t=r}while(true)switch(t){case 0:f="https://api.dorschdev.de/api/chats/rooms/"+H.c(a)
 r=3
 i=u.N
 t=6
@@ -28565,7 +28565,7 @@ return P.a0($async$nu,s)},
 pj:function(a){return this.W3(a)},
 W3:function(a){var t=0,s=P.a1(u.z),r,q=2,p,o=[],n=this,m,l,k,j,i,h,g,f,e
 var $async$pj=P.Y(function(b,c){if(b===1){p=c
-t=q}while(true)switch(t){case 0:f="http://dsb-api.dorschdev.de/api/chats/create-room"
+t=q}while(true)switch(t){case 0:f="https://api.dorschdev.de/api/chats/create-room"
 q=4
 i=u.N
 h=P.T(["Authorization","Bearer "+H.c(n.b)],i,i)
@@ -28599,7 +28599,7 @@ return P.a0($async$pj,s)},
 q_:function(a){return this.Yo(a)},
 Yo:function(a){var t=0,s=P.a1(u.z),r,q=2,p,o=[],n=this,m,l,k,j,i,h,g,f,e
 var $async$q_=P.Y(function(b,c){if(b===1){p=c
-t=q}while(true)switch(t){case 0:f="http://dsb-api.dorschdev.de/api/chats/join-room"
+t=q}while(true)switch(t){case 0:f="https://api.dorschdev.de/api/chats/join-room"
 q=4
 i=u.N
 h=P.T(["Authorization","Bearer "+H.c(n.b)],i,i)
@@ -28636,7 +28636,7 @@ nw:function(){var t=0,s=P.a1(u.H),r,q=this,p,o,n,m,l,k,j,i
 var $async$nw=P.Y(function(a,b){if(a===1)return P.Z(b,s)
 while(true)switch(t){case 0:l=u.N
 t=3
-return P.a5(G.q6("http://dsb-api.dorschdev.de/api/chats/get-rooms/"+H.c(q.c),P.T(["content-type","application/json","Authorization","Bearer "+H.c(q.b)],l,l)),$async$nw)
+return P.a5(G.q6("https://api.dorschdev.de/api/chats/get-rooms/"+H.c(q.c),P.T(["content-type","application/json","Authorization","Bearer "+H.c(q.b)],l,l)),$async$nw)
 case 3:k=b
 j=C.V.b7(0,B.fE(U.fB(k.e).c.a.h(0,"charset")).b7(0,k.x))
 i=J.aa(j)
@@ -28671,7 +28671,7 @@ lg:function(){var t=0,s=P.a1(u.H),r=this,q,p,o,n,m,l,k,j
 var $async$lg=P.Y(function(a,b){if(a===1)return P.Z(b,s)
 while(true)switch(t){case 0:m=u.N
 t=2
-return P.a5(G.q6("http://dsb-api.dorschdev.de/api/posts",P.T(["Authorization","Bearer "+H.c(r.c)],m,m)),$async$lg)
+return P.a5(G.q6("https://api.dorschdev.de/api/posts",P.T(["Authorization","Bearer "+H.c(r.c)],m,m)),$async$lg)
 case 2:l=b
 k=C.V.b7(0,B.fE(U.fB(l.e).c.a.h(0,"charset")).b7(0,l.x))
 j=H.a([],u.Cr)
@@ -28693,7 +28693,7 @@ r=q.b.h(0,a)
 t=1
 break}p=u.N
 t=3
-return P.a5(G.q6("http://dsb-api.dorschdev.de/api/posts/"+H.c(a)+"/comments",P.T(["Authorization","Bearer "+H.c(q.c)],p,p)),$async$no)
+return P.a5(G.q6("https://api.dorschdev.de/api/posts/"+H.c(a)+"/comments",P.T(["Authorization","Bearer "+H.c(q.c)],p,p)),$async$no)
 case 3:o=c
 n=C.V.b7(0,B.fE(U.fB(o.e).c.a.h(0,"charset")).b7(0,o.x))
 m=H.a([],u.zR)
@@ -28714,7 +28714,7 @@ qk:function(a,b,c){return this.ZT(a,b,c)},
 ZT:function(a,b,c){var t=0,s=P.a1(u.H),r=this,q,p,o,n,m
 var $async$qk=P.Y(function(d,e){if(d===1)return P.Z(e,s)
 while(true)switch(t){case 0:P.aL("POST")
-q="http://dsb-api.dorschdev.de/api/posts/"+H.c(a)+"/post-comment"
+q="https://api.dorschdev.de/api/posts/"+H.c(a)+"/post-comment"
 p=u.N
 o=P.T(["Authorization","Bearer "+H.c(r.c)],p,p)
 t=2
@@ -28741,7 +28741,7 @@ var $async$jN=P.Y(function(b,c){if(b===1){p=c
 t=q}while(true)switch(t){case 0:f=n.a
 if(f.h(0,a)!=null){r=f.h(0,a)
 t=1
-break}m="http://dsb-api.dorschdev.de/api/users/user/"+a
+break}m="https://api.dorschdev.de/api/users/user/"+a
 q=4
 h=u.N
 t=7
