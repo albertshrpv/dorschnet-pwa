@@ -1,6 +1,6 @@
 {
-    "name": "dsb_view_flutter",
-    "short_name": "dsb_view_flutter",
+    "name": "Medienscouts MV",
+    "short_name": "MedienscoutsMV",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
