@@ -3,21 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0a1710290a6cd89def70dac74d950fb7",
+  "assets/AssetManifest.json": "9b30f96151d318de49733e2b57efb886",
 "assets/assets/images/aiony-haust.jpg": "d74e00cb261d4ac7c22b964fee69dfac",
+"assets/assets/images/app-background.png": "81abc6562530df580d437ba963af61be",
+"assets/assets/images/chat-bg.jpg": "2879accc54c1b22f91f97d7d650ae43f",
+"assets/assets/images/chat-bg1.jpg": "4587dba198ee103cf89c1f9c8828a1f4",
+"assets/assets/images/chat-bg2.jpg": "0bf280388937448d38392b76c15bd441",
+"assets/assets/images/chat-bg3.jpg": "ac7bd4918a573c17f660ffc11cce8965",
+"assets/assets/images/chat-bg4.jpg": "eb3b9e51cab01a9c44fb1bd547106c34",
+"assets/assets/images/chat-bg5.jpg": "e568c04aa90926aae6ab33ef6e8ec8ea",
+"assets/assets/images/chat-bg6.jpg": "7c5cb8abb336a097557ba91f7f0aa9e2",
 "assets/assets/images/logo.gif": "cb68a11c0192cb3f4a183be9ae6cc048",
 "assets/assets/images/no-img-placeholder.png": "ca87eb8c850bc22a9e9baf6a78f7bac7",
 "assets/assets/images/profile-placeholder.png": "2b81004654701e88ffbc2584a2cb527c",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/NOTICES": "76b0862f023c66d3eba580b87d3be22f",
+"assets/NOTICES": "22412f5dc426c932f6a399401feacf1b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "67ba0201fd46495ef0d8df253c0bdea4",
 "/": "67ba0201fd46495ef0d8df253c0bdea4",
-"main.dart.js": "34c4df1679fd239ccbc2271c686ca1af",
+"main.dart.js": "1caf4dbc320d8d2810897881b0e5ade8",
 "manifest.json": "663371480fe471d8ca36ec2118c1d678"
 };
 
