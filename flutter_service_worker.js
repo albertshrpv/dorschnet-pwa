@@ -3,14 +3,28 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fe5857ee3d4d8ae5d0bfa6595bbb4df4",
+  "assets/AssetManifest.json": "0acd9b3203faa88c9c2ef169d8c8d4df",
+"assets/assets/fonts/Lato-Bold.ttf": "85d339d916479f729938d2911b85bf1f",
+"assets/assets/fonts/Lato-BoldItalic.ttf": "f98d18040a766b7bc4884b8fcc154550",
+"assets/assets/fonts/Lato-Italic.ttf": "7582e823ef0d702969ea0cce9afb326d",
+"assets/assets/fonts/Lato-Light.ttf": "2fe27d9d10cdfccb1baef28a45d5ba90",
+"assets/assets/fonts/Lato-LightItalic.ttf": "4d80ac573c53d192dafd99fdd6aa01e9",
+"assets/assets/fonts/Lato-Regular.ttf": "2d36b1a925432bae7f3c53a340868c6e",
+"assets/assets/fonts/Lato-Thin.ttf": "9a77fbaa85fa42b73e3b96399daf49c5",
+"assets/assets/fonts/Lato-ThinItalic.ttf": "4ac7208bbe0e3593ce9464f013607751",
+"assets/assets/fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
+"assets/assets/fonts/Quicksand-Bold.ttf": "0738679df4cf4e566f60343830da7bfa",
+"assets/assets/fonts/Quicksand-Light.ttf": "188ca708e4cbbbe3837c3d904b8eeb61",
+"assets/assets/fonts/Quicksand-Medium.ttf": "865b25e449878b6b4d1f9e098ff2f510",
+"assets/assets/fonts/Quicksand-Regular.ttf": "216d43ee8707910af457af569eda1dec",
+"assets/assets/fonts/Quicksand-SemiBold.ttf": "c82b184bf7450e14adccb7b0d6117474",
 "assets/assets/images/aiony-haust.jpg": "d74e00cb261d4ac7c22b964fee69dfac",
 "assets/assets/images/app-background.png": "81abc6562530df580d437ba963af61be",
 "assets/assets/images/chat-bg.jpg": "2879accc54c1b22f91f97d7d650ae43f",
 "assets/assets/images/chat-bg1.jpg": "4587dba198ee103cf89c1f9c8828a1f4",
 "assets/assets/images/no-img-placeholder.png": "ca87eb8c850bc22a9e9baf6a78f7bac7",
 "assets/assets/images/profile-placeholder.png": "2b81004654701e88ffbc2584a2cb527c",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/FontManifest.json": "f9458375ffb2e04e70a25f21ba268126",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
 "assets/NOTICES": "b90424725fd4042fa3f0f04f6a4a03a2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
@@ -19,7 +33,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "15b77f11dcaeac5cb56273dce835e56e",
 "/": "15b77f11dcaeac5cb56273dce835e56e",
-"main.dart.js": "6f8705932fe32ac2a1571da2c2e06c24",
+"main.dart.js": "7090792772fc95494e045f2db0b11fc4",
 "manifest.json": "c523ba049f5e606520cdb3bb008cf275"
 };
 
