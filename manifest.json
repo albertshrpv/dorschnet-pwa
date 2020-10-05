@@ -1,6 +1,6 @@
 {
-    "name": "dsb_medienscouts",
-    "short_name": "dsb_medienscouts",
+    "name": "Medienscouts MV",
+    "short_name": "Medienscouts",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
